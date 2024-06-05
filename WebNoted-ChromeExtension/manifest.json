@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Web Noted",
+  "version": "1.0",
+  "permissions": ["offscreen","commands", "tabs", "scripting","activeTab","nativeMessaging","storage","contextMenus","webRequest","downloads"],
+  "background": {
+    "service_worker": "webnoted.js",
+    "type":"module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "commands": {
+    "simpleLine": {
+      "suggested_key": {
+        "default": "Alt+L"
+      },
+      "description": "Make a simple line"
+    },
+    "heading":{
+      "suggested_key":{
+        "default":"Alt+H"
+      },
+      "description":"Make a heading"
+    }
+  },
+  "action": {
+    "default_icon": {
+    },
+    "default_popup":""
+  }
+}
