@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\WebNoted-Project\\AWS-Lambda\\PdfGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC10A4-02FC-455C-B315-30C8C0D156A2}|PdfGenerator.csproj|u:\\webnoted-project\\aws-lambda\\pdfgenerator\\controllers\\getpdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC10A4-02FC-455C-B315-30C8C0D156A2}|PdfGenerator.csproj|solutionrelative:controllers\\getpdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC10A4-02FC-455C-B315-30C8C0D156A2}|PdfGenerator.csproj|u:\\webnoted-project\\aws-lambda\\pdfgenerator\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC10A4-02FC-455C-B315-30C8C0D156A2}|PdfGenerator.csproj|solutionrelative:services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetPdfController.cs",
+              "DocumentMoniker": "U:\\WebNoted-Project\\AWS-Lambda\\PdfGenerator\\Controllers\\GetPdfController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GetPdfController.cs",
+              "ToolTip": "U:\\WebNoted-Project\\AWS-Lambda\\PdfGenerator\\Controllers\\GetPdfController.cs",
+              "RelativeToolTip": "Controllers\\GetPdfController.cs",
+              "ViewState": "AQIAABEAAACA//////8gwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:00:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "U:\\WebNoted-Project\\AWS-Lambda\\PdfGenerator\\Services\\PdfService.cs",
+              "RelativeDocumentMoniker": "Services\\PdfService.cs",
+              "ToolTip": "U:\\WebNoted-Project\\AWS-Lambda\\PdfGenerator\\Services\\PdfService.cs",
+              "RelativeToolTip": "Services\\PdfService.cs",
+              "ViewState": "AQIAABUAAADAAAAAAAAowCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:08:23.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
